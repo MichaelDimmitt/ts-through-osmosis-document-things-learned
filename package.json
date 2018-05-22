@@ -1,0 +1,27 @@
+{
+  "name": "ts-through-osmosis-document-things-learned",
+  "version": "1.0.0",
+  "description": "documenting how things work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelDimmitt/ts-through-osmosis-document-things-learned.git"
+  },
+  "keywords": [
+    "not",
+    "to",
+    "be",
+    "published",
+    "on",
+    "npm"
+  ],
+  "author": "Michael Dimmitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelDimmitt/ts-through-osmosis-document-things-learned/issues"
+  },
+  "homepage": "https://github.com/MichaelDimmitt/ts-through-osmosis-document-things-learned#readme"
+}
