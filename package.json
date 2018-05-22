@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/MichaelDimmitt/ts-through-osmosis-document-things-learned/issues"
   },
-  "homepage": "https://github.com/MichaelDimmitt/ts-through-osmosis-document-things-learned#readme"
+  "homepage": "https://github.com/MichaelDimmitt/ts-through-osmosis-document-things-learned#readme",
+  "dependencies": {
+    "tslib": "^1.9.1"
+  },
+  "devDependencies": {
+    "ts-node": "^6.0.3",
+    "typescript": "^2.8.3"
+  }
 }
